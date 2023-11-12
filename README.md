@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bruno-iwamura
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: iw.bruno@live.com
 
